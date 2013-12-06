@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Guia Turistico</string>
+    <string name="tvLugar">Nombre del Lugar</string>
+    <string name="txtBuscar">Introduzca un Nombre</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnMap">ver Mapa</string>
+</resources>
