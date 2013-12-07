@@ -1,4 +1,6 @@
 boliviaturistica
+
+Este proyecto se encuentra orientado a los turistas para incentivar el turismo nacional, incluyendo varios lugares sobresalientes del pais con su respectiva fotografia y descripcion.
 ================
 
 Mobile application for torustic guide about best places in Bolivia by State and by whole country
