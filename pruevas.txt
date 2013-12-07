@@ -22,5 +22,5 @@ Formalmente, los casos de prueba escritos consisten principalmente en tres parte
 * Severidad: Indica el impacto del defecto en el sistema: Grave, Mayor, Normal, Menor.
 * Evidencia: En los casos que aplica, contiene un link al print de pantalla (screenshot) donde se evidencia la salida obtenida.
 * Seguimiento: Si un caso de prueba falla, frecuentemente la referencia al defecto implicado se debe enumerar en esta columna. Contiene el código correlativo del defecto, a menudo corresponde al código del sistema de tracking de bugs que se esté usando.
-* Estado: Indica si el caso de prueba está: No iniciado, En curso, o terminado.
+* Estado: Indica si el caso de prueba está: No iniciado, En curso, o terminado
 
