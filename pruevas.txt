@@ -24,3 +24,4 @@ Formalmente, los casos de prueba escritos consisten principalmente en tres parte
 * Seguimiento: Si un caso de prueba falla, frecuentemente la referencia al defecto implicado se debe enumerar en esta columna. Contiene el código correlativo del defecto, a menudo corresponde al código del sistema de tracking de bugs que se esté usando.
 * Estado: Indica si el caso de prueba está: No iniciado, En curso, o terminado
 
+nueva linea agregada el dia de hoy.
